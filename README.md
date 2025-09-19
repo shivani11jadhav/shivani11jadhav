@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="35px" height="35px" /> Hey there, I'm **Shivani Jadhav**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="35px" height="35px" /> Hey , I'm **Shivani Jadhav**
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
