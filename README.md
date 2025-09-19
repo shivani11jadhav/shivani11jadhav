@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Jadhav</h1>
-<h3 align="center">I am p</h3>
+<h3 align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani11jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="shivani11jadhav" /> </p>
 
