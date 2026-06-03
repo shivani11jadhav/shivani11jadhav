@@ -12,7 +12,7 @@ Hi there! I'm Shivani Jadhav 👋
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivani11jadhav&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/shivani11jadhav?label=Followers&style=for-the-badge&color=ff69b4" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-fullstack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Level-Learning%20&%20Growing-orange?style=for-the-badge" alt="Level" />
 </div>
 
