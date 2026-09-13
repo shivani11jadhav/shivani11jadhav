@@ -4,7 +4,8 @@
 Hi there! I'm Shivani Jadhav 👋
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+My+Digital+Workspace+%F0%9F%9A%80;Building+Tomorrow's+Technology+Today;I'm+not+just+learning+to+code;I'm+learning+to+create+impact!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+My+Digital+Workspace+%F0%9F%9A%80;Building+Tomorrow's+Technology+Today!" alt="Typing SVG" />
+  
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
@@ -16,64 +17,38 @@ Hi there! I'm Shivani Jadhav 👋
   <img src="https://img.shields.io/badge/Level-Learning%20&%20Growing-orange?style=for-the-badge" alt="Level" />
 </div>
 
-🚀 About Me
-javascriptconst shivani = {
-    pronouns: "she/her",
-    location: "India",
-    code: ["Java", "Python"],
-    currentFocus: ["DSA", "Development", "AIML " ,"Blockchain Technology"],
-    askMeAbout: ["Java DSA", "Fullstack Development",
-    reachMe: "jadhav.spstud@snjb.org",
-   
-};
-🔭 Current Journey
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=650&height=50&lines=const+shivani+=+%7B+pronouns:+%22she%2Fher%22,+location:+%22India%22+%7D;Full+Stack+Developer+%7C+Open+Source;Top+1%25+in+GSSoC+2026+%7C+46+PRs;DoraHacks+Top+50+Product+Builder" alt="Typing SVG" />
+  </a>
+
+## 🎯 Current Journey & What I'm Up To
+
 <table align="center">
 <tr>
 <td width="50%">
----
-
-## 🎯 What I'm Up To
-
-<table>
-<tr>
-<td>🌱 <strong>Currently Mastering</strong></td>
-<td>Advanced DSA in Java &nbsp;⚡&nbsp; Scalable Full-Stack Systems &nbsp;⚙️&nbsp; AI Core Fundamentals</td>
-</tr>
-<tr>
-<td>💬 <strong>Ask Me About</strong></td>
-<td>Java DSA &nbsp;•&nbsp;Web Development &nbsp•&nbsp;Backend Architecture &nbsp;•&nbsp; Databases (MySQL / PL-SQL / MongoDB)</td>
-</tr>
-<tr>
-<td>📫 <strong>Reach Me At</strong></td>
-<td><a href="mailto:shivanij112006@gmail.com">shivanij112006@gmail.com</a></td>
-</tr>
-<tr>
-<td>⚡ <strong>Fun Fact</strong></td>
-<td>I don't just optimize queries — I optimize real-world execution systems!</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Ecosystem Alignment — Looking For
-
-<table>
-<tr>
-<td width="60">
-<img src="https://img.shields.io/badge/-Internship-0A66C2?style=flat-square&logo=briefcase&logoColor=white"/>
+  <strong>🌱 Currently Mastering</strong><br>
+  Advanced DSA in Java &nbsp;⚡&nbsp; Scalable Full-Stack Systems &nbsp;⚙️&nbsp; AI Core Fundamentals
 </td>
-<td>
-<strong>Production-Grade Internships</strong><br/>
-Actively seeking competitive backend or full-stack corporate roles to build enterprise Java / JavaScript platforms.
+<td width="50%">
+  <strong>🏆 Recent Milestones</strong><br>
+  GSSoC Champion & Elite (46+ PRs) &nbsp;•&nbsp; DoraHacks Top 50 &nbsp;•&nbsp; Smart Kopargaon Grand Finalist
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://img.shields.io/badge/-Hackathon-8A2BE2?style=flat-square&logo=lightning&logoColor=white"/>
+  <strong>💬 Ask Me About</strong><br>
+  Java DSA &nbsp;•&nbsp; Web Development &nbsp;•&nbsp; Backend Architecture &nbsp;•&nbsp; Databases
 </td>
 <td>
-<strong>Hackathons & Sprints</strong><br/>
-Teaming up for national innovation hackathons and deep-tech sprints to deploy highly automated architectural systems.
+  <strong>🔭 Currently Building</strong><br>
+  Real-world scalable web applications, open-source projects, and AI-driven systems.
+</td>
+</tr>
+<tr>
+<td>
+  <strong>📫 Reach Me At</strong><br>
+  <a href="mailto:shivanij112006@gmail.com">shivanij112006@gmail.com</a>
 </td>
 </tr>
 </table>
@@ -166,23 +141,6 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
   </a>
 </div>
 
-🎯 Current Focus Areas
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Mastering-Data%20Structures%20&%20Algorithms-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Exploring-Blockchain%20Technology-purple?style=for-the-badge&logo=bitcoin&logoColor=white" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Building-Frontend%20Applications-blue?style=for-the-badge&logo=react&logoColor=white" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Learning-Full%20Stack%20Development-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani11jadhav&theme=dracula&bg_color=0d1117&color=bd93f9&line=ff79c6&point=FFFFFF&hide_border=true&area=true" alt="Contribution Graph" />
@@ -244,3 +202,26 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
 > 
 > 📈 **Total Milestones:** **13 Badges Earned** during the GSSoC 2026 program journey.
 
+
+## 🛠️ Ecosystem Alignment — Looking For
+
+<table>
+<tr>
+<td width="60">
+<img src="https://img.shields.io/badge/-Internship-0A66C2?style=flat-square&logo=briefcase&logoColor=white"/>
+</td>
+<td>
+<strong>Production-Grade Internships</strong><br/>
+Actively seeking competitive backend or full-stack corporate roles to build enterprise Java / JavaScript platforms.
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/-Hackathon-8A2BE2?style=flat-square&logo=lightning&logoColor=white"/>
+</td>
+<td>
+<strong>Hackathons & Sprints</strong><br/>
+Teaming up for national innovation hackathons and deep-tech sprints to deploy highly automated architectural systems.
+</td>
+</tr>
+</table>
