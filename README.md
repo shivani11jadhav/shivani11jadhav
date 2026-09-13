@@ -19,7 +19,7 @@ Hi there! I'm Shivani Jadhav 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=650&height=50&lines=const+shivani+=+%7B+pronouns:+%22she%2Fher%22,+location:+%22India%22+%7D;Full+Stack+Developer+%7C+Open+Source;Top+1%25+in+GSSoC+2026+%7C+46+PRs;DoraHacks+Top+50+Product+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=650&height=50&lines=const+shivani+=+%7B+pronouns:+%22she%2Fher%22,+location:+%22India%22+%7D;Full+Stack+Developer+%7C+Open+Source+contributer;Top+1%25+in+GSSoC+2026+%7C+46+PRs;DoraHacks+Top+50+Product+Builder" alt="Typing SVG" />
   </a>
 
 ## 🎯 Current Journey & What I'm Up To
@@ -73,6 +73,7 @@ Hi there! I'm Shivani Jadhav 👋
 </tr>
 </table>
 🛠️ Tech Arsenal
+
 <div align="center">
 👨‍💻 Programming Languages
 <p>
