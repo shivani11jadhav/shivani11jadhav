@@ -3,7 +3,7 @@
 </div>
 Hi there! I'm Shivani Jadhav 👋
 <div align="center">
-  <!-- Dynamic Typing Animation inspired by Shruti's style -->
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+My+Digital+Workspace+%F0%9F%9A%80;Building+Tomorrow's+Technology+Today;I'm+not+just+learning+to+code;I'm+learning+to+create+impact!" alt="Typing SVG" />
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
@@ -20,9 +20,9 @@ Hi there! I'm Shivani Jadhav 👋
 javascriptconst shivani = {
     pronouns: "she/her",
     location: "India",
-    code: ["Java", "C++", "Python", "HTML", "CSS"],
-    currentFocus: ["DSA", "Development", "Blockchain Technology"],
-    askMeAbout: ["Java DSA", "Development", "Frontend Magic"],
+    code: ["Java", "Python"],
+    currentFocus: ["DSA", "Development", "AIML " ,"Blockchain Technology"],
+    askMeAbout: ["Java DSA", "Fullstack Development",
     reachMe: "jadhav.spstud@snjb.org",
    
 };
@@ -102,9 +102,7 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
 👨‍💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 🎨 Frontend Technologies
 <p>
@@ -113,23 +111,25 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
+  
 ⚙️ Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 🛠️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+
 </p>
-🎨 Design & Creative
-<p>
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-</p>
+
 </div>
 📊 Coding Statistics
 <div align="center">
@@ -139,10 +139,19 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani11jadhav&theme=dracula&hide_border=true&stroke=0000&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=bd93f9" alt="shivani11jadhav" />
 </div>
-🏆 Achievements
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=shivani11jadhav&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
+### 🏆 Key Achievements & Milestones
+
+* 🌟 **GirlScript Summer of Code (GSSoC 2026):** Secured **Top 1% Global Rank** among 47,000+ participants with **11,034+ points** and **46+ merged PRs** across 8 open-source projects, earning the **GSSoC Champion & Elite** badges.
+* 🚀 **DoraHacks 2.0 Global Hackathon:** Co-built project ***Anandā*** with team members, recognized among the **Top 50 Products** globally among builders from 30+ countries, winning **$300 worth of rewards**.
+* 🎯 **Smart Kopargaon Hackathon 2026:** Shortlisted among the **Top 100 Grand Finalists** (out of 200+ teams) and advanced to the **Top 20 for the GD round** with *Team Ecoverse* for building the *Drone-Based Smart Traffic Surveillance System*.
+
+### 💼 Positions of Responsibility & Fellowships
+
+* 🚀 **Selected Fellow** | *GWY Fellowship 2.0* (2026) — Built and scaled real-world products in a global collaborative environment.
+* 🏛️ **Planning Minister** | *Career Katta* (2026–Present) — Planned and coordinated career-focused events, programs, and student activities.
+* 🎙️ **Secretary** | *Debate Club* (2025–2026) — Organized, managed, and conducted debates and various college-level events.
+* 💻 **Member** | *Coding Club* (2025–2026) — Actively participated in coding activities, tech discussions, and technical workshops.
+  
 💻 Coding Platforms
 <div align="center">
   <a href="https://www.leetcode.com/shivani11">
@@ -151,13 +160,12 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
   <a href="https://www.codechef.com/users/shivani1104">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
-  </a>
-  <a href="#">
+  
+  <a href="https://www.hackerrank.com/profile/shivanij112006)">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </div>
+
 🎯 Current Focus Areas
 <div align="center">
   <table>
@@ -181,7 +189,7 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
 </div>
 🤝 Let's Connect!
 <div align="center">
-  <a href="https://linkedin.com/in/shivani jadhav">
+  <a href="https://www. linkedin.com/in/shivani-jadhav-299318368">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shivanij112006@gmail.com">
@@ -192,10 +200,7 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
   </a>
   <a href="https://www.leetcode.com/shivani11">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/shivani1104">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+  
 </div>
 
 ## 🟠 GirlScript Summer of Code (GSSoC) 2026
