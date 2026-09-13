@@ -34,7 +34,7 @@ Hi there! I'm Shivani Jadhav 👋
 </td>
 <td width="50%">
   <strong>🏆 Recent Milestones</strong><br>
-  GSSoC Champion & Elite (46+ PRs) &nbsp;•&nbsp; DoraHacks Top 50 &nbsp;•&nbsp; Smart Kopargaon Grand Finalist
+  •  GSSoC Champion(46+ PRs) &nbsp;•&nbsp; DoraHacks 2.0 Global Hackathon (Top 50 Product Builder)
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ Hi there! I'm Shivani Jadhav 👋
 | 🔥 | Crack high-level algorithmic logic on LeetCode & CodeChef | ![DSA](https://img.shields.io/badge/DSA-In%20Progress-orange?style=flat-square) |
 | 🧠 | Dive deep into AI integration & ML fundamentals to scale smart applications | ![AI/ML](https://img.shields.io/badge/AI%2FML-Exploring-blueviolet?style=flat-square) |
 | ⛓️ | Learn Blockchain basics — decentralization, core concepts & beginner testnet | ![Blockchain](https://img.shields.io/badge/Blockchain-Learning%20Basics-gray?style=flat-square) |
-| 🌍 | Expand open-source visibility via GSSoC 2026 & SSOC code pipelines | ![Open Source](https://img.shields.io/badge/GSSoC-Top_1%contributer25-blueviolet?style=flat-square) |
+| 🌍 | Expand open-source visibility via GSSoC 2026 & SSOC code pipelines | ![Open Source](https://img.shields.io/badge/GSSoC-Top_1%25-blueviolet?style=flat-square) |
 ---
 <td width="50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani11jadhav&show_icons=true&theme=radical" />
@@ -218,3 +218,10 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
 </td>
 </tr>
 </table>
+
+ <p align="center">
+  <em>"Code with purpose, contribute with impact, grow with every commit."</em>
+</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=150&section=footer&text=Let's%20Build%20Great%20Software%20Together!&fontSize=20&fontColor=fff&fontAlignY=70&animation=twinkling&desc=Open%20to%20Internships%20%7C%20Hackathons%20%7C%20Collaborations&descAlignY=90&descSize=14" width="100%" />
+</div>
