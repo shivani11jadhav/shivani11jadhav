@@ -20,11 +20,11 @@ Hi there! I'm Shivani Jadhav 👋
 javascriptconst shivani = {
     pronouns: "she/her",
     location: "India",
-    code: ["Java", "JavaScript", "C++", "Python", "HTML", "CSS"],
+    code: ["Java", "C++", "Python", "HTML", "CSS"],
     currentFocus: ["DSA", "Development", "Blockchain Technology"],
     askMeAbout: ["Java DSA", "Development", "Frontend Magic"],
-    reachMe: "shivanij112006@gmail.com",
-    funFact: "I'm not just learning to code—I'm learning to create impact! 🚀"
+    reachMe: "jadhav.spstud@snjb.org",
+   
 };
 🔭 Current Journey
 <table align="center">
@@ -206,11 +206,12 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
 
 <p align="left">
   <!-- Line 1: Top Milestones & Rare/Uncommon Badges -->
+   <img src="https://gssoc.girlscript.org/badges/milestone/gssoc_champion.png" width="95" title="GSSoC Champion" alt="GSSoC Champion" />
+  <img src="https://gssoc.girlscript.org/badges/milestone/elite.png" width="95" title="Elite" alt="Elite" />
   <img src="https://github.com/user-attachments/assets/af38f181-a761-4156-9bc9-3dc7d62d1915" width="95" title="Power Contributor (Rare)" alt="Power Contributor" />
-  <img src="https://github.com/user-attachments/assets/591abfbf-78d6-452c-b8b5-8631eb7b2e22" width="95" title="Power Contributor (Rare)" alt="Power Contributor" />
+<img src="https://gssoc.girlscript.org/badges/milestone/on_a_roll.png" width="95" title="On a Roll" alt="On a Roll" />
   <img src="https://github.com/user-attachments/assets/56c8133f-5278-4fd4-849e-a79a7a13a602" width="95" title="Rising Star (Uncommon)" alt="Rising Star" />
-  <img src="https://github.com/user-attachments/assets/c05e141b-4053-4c11-aa85-424eb8b0680a" width="95" title="Bounty Master (Uncommon)" alt="Bounty Master" />
-  <img src="https://github.com/user-attachments/assets/c54db91c-a352-4664-b233-697e05a060dd" width="95" title="Week One (Streak)" alt="Week One" />
+ <img src="https://gssoc.girlscript.org/badges/milestone/building_momentum.png" width="95" title="Building Momentum" alt="Building Momentum" />
   <img src="https://github.com/user-attachments/assets/f832306d-6fc0-4dba-bdc7-9420b32e97d0" width="95" title="Getting Started / 5 PRs" alt="Getting Started" />
   <br />
   <!-- Line 2: Core Progress & Community Milestones -->
@@ -222,19 +223,19 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
   <img src="https://github.com/user-attachments/assets/55584dbb-6eae-4553-9848-b2e519d8f9dc" width="90" title="Profile Complete" alt="Profile Complete" />
 </p>
 
-### 📊 Performance Summary
+### 📈 Performance Summary
 
 | 🏅 Badge Name | ⭐ Rarity / Status | Impact Level |
 | :--- | :--- | :--- |
-| 🏆 **Power Contributor** | <kbd>✨ Rare</kbd> | High-impact contributions across repositories |
-| ⭐ **Rising Star** | <kbd>⚡ Uncommon</kbd> | Rapidly submitted and approved pull requests |
+| 🏆 **GSSoC Champion & Elite** | <kbd>🌟 Legendary / Epic</kbd> | Top tier overall contributions |
+| 👑 **Power Contributor** | <kbd>✨ Rare</kbd> | High-impact contributions across repositories |
+| 🌟 **On a Roll & Rising Star** | <kbd>⚡ Uncommon</kbd> | Rapidly submitted and approved pull requests |
+| 🚀 **Building Momentum** | <kbd>⚛️ Core</kbd> | Successfully integrated core code improvements |
 | 🎯 **Bounty Master** | <kbd>🎯 Uncommon</kbd> | Successfully resolved complex high-pointer issues |
-| 📅 **Week One** | <kbd>🔥 Streak</kbd> | Maintained consistent active status from launch |
-| 🦈 **5 PRs Merged / Getting Started** | <kbd>⚙️ Core</kbd> | Successfully integrated core code improvements |
-| 📍 **Point Scorer & Code Warrior** | <kbd>⚙️ Progress</kbd> | Solved algorithmic and automation issues |
+| 📍 **Point Scorer & Code Warrior** | <kbd>⚛️ Progress</kbd> | Solved algorithmic and automation issues |
 | 🛠️ **Platform & Setup Badges** | <kbd>✅ Verified</kbd> | *First Steps, Bounty Hunter, Discord & Profile Complete* |
 
 > 🤖 **AI Idea Submission Advantage:** Earned an additional **+300 GSSoC points** for designing and submitting an innovative automated AI system solution!
 > 
-> 📈 **Total Milestones:** **12 Badges Earned** during the GSSoC 2026 program journey.
+> 📈 **Total Milestones:** **13 Badges Earned** during the GSSoC 2026 program journey.
 
