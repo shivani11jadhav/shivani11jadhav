@@ -59,7 +59,7 @@ Hi there! I'm Shivani Jadhav 👋
 | 🔥 | Crack high-level algorithmic logic on LeetCode & CodeChef | ![DSA](https://img.shields.io/badge/DSA-In%20Progress-orange?style=flat-square) |
 | 🧠 | Dive deep into AI integration & ML fundamentals to scale smart applications | ![AI/ML](https://img.shields.io/badge/AI%2FML-Exploring-blueviolet?style=flat-square) |
 | ⛓️ | Learn Blockchain basics — decentralization, core concepts & beginner testnet | ![Blockchain](https://img.shields.io/badge/Blockchain-Learning%20Basics-gray?style=flat-square) |
-| 🌍 | Expand open-source visibility via GSSoC 2026 & SSOC code pipelines | ![Open Source](https://img.shields.io/badge/GSSoC-Top_1%25-blueviolet?style=flat-square) |
+| 🌍 | Expand open-source visibility via GSSoC 2026 & SSOC code pipelines | ![Open Source](https://img.shields.io/badge/GSSoC-Top_1%contributer25-blueviolet?style=flat-square) |
 ---
 <td width="50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani11jadhav&show_icons=true&theme=radical" />
