@@ -12,6 +12,8 @@ Hi there! I'm Shivani Jadhav 👋
 <!-- Profile Metrics -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivani11jadhav&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Email-Reach_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/github/followers/shivani11jadhav?label=Followers&style=for-the-badge&color=ff69b4" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-fullstack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Level-Learning%20&%20Growing-orange?style=for-the-badge" alt="Level" />
@@ -44,10 +46,6 @@ Hi there! I'm Shivani Jadhav 👋
   <strong>🔭 Currently Building</strong><br>
   Real-world scalable web applications, open-source projects, and AI-driven systems.
 </td>
-</tr>
-<tr>
-  <strong>📫 Reach Me At</strong><br>
-  <a href="mailto:shivanij112006@gmail.com">shivanij112006@gmail.com</a>
 </tr>
 
 </table>
@@ -142,7 +140,7 @@ Hi there! I'm Shivani Jadhav 👋
 </div>
 🤝 Let's Connect!
 <div align="center">
-  <a href="https://www. linkedin.com/in/shivani-jadhav-299318368">
+  <a href="https://www.linkedin.com/in/shivani-jadhav-299318368">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shivanij112006@gmail.com">
