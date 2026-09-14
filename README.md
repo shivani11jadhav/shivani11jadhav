@@ -6,9 +6,7 @@ Hi there! I'm Shivani Jadhav 👋
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+My+Digital+Workspace+%F0%9F%9A%80;Building+Tomorrow's+Technology+Today!" alt="Typing SVG" />
   
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
+  
 <!-- Profile Metrics -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shivani11jadhav&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
