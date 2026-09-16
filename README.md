@@ -108,8 +108,8 @@ Hi there! I'm Shivani Jadhav 👋
 ### 🏆 Key Achievements & Milestones
 
 * 🌟 **GirlScript Summer of Code (GSSoC 2026):** Secured **Top 1% Global Rank** among 47,000+ participants with **11,034+ points** and **46+ merged PRs** across 8 open-source projects, earning the **GSSoC Champion & Elite** badges.
-* 🚀 **DoraHacks 2.0 Global Hackathon:** Co-built project ***Anandā*** with team members, recognized among the **Top 50 Products** globally among builders from 30+ countries, winning **$300 worth of rewards**.
-* 🎯 **Smart Kopargaon Hackathon 2026:** Shortlisted among the **Top 100 Grand Finalists** (out of 200+ teams) and advanced to the **Top 20 for the GD round** with *Team Ecoverse* for building the *Drone-Based Smart Traffic Surveillance System*.
+* 🚀 **DoraHacks 2.0 Global Hackathon:** Co-built project ***Anandā*** with team members, recognized among the **Top 50 Products** globally among builders from 30+ countries**.
+
 
 ### 💼 Positions of Responsibility & Fellowships
 
@@ -217,9 +217,7 @@ Teaming up for national innovation hackathons and deep-tech sprints to deploy hi
 </tr>
 </table>
 
- <p align="center">
-  <em>"Code with purpose, contribute with impact, grow with every commit."</em>
-</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=150&section=footer&text=Let's%20Build%20Great%20Software%20Together!&fontSize=20&fontColor=fff&fontAlignY=70&animation=twinkling&desc=Open%20to%20Internships%20%7C%20Hackathons%20%7C%20Collaborations&descAlignY=90&descSize=14" width="100%" />
 </div>
