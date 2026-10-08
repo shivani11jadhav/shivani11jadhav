@@ -120,7 +120,7 @@ Hi there! I'm Shivani Jadhav 👋
   
 💻 Coding Platforms
 <div align="center">
-  <a href="https://www.leetcode.com/shivani11">
+  <a href="https://leetcode.com/u/shivani112006">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
   <a href="https://www.codechef.com/users/shivani1104">
