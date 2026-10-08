@@ -147,7 +147,7 @@ Hi there! I'm Shivani Jadhav 👋
   <a href="https://github.com/shivani11jadhav">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.leetcode.com/shivani11">
+  <a href="https://leetcode.com/u/shivani112006">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   
 </div>
